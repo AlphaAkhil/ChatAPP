@@ -67,7 +67,7 @@ The client will prompt for a username and then allow chat communication.
 exit
 ```
 
-![Stop Server](images/stopSever.png)
+![Stop Server](images/stopServer.png)
 stop accepting new client
 
   
